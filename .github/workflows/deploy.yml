@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./testproject   # 👈 this is key
+        working-directory: ./   # 👈 this is key
 
     steps:
       - name: Checkout code
