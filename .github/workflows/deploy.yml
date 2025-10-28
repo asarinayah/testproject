@@ -12,7 +12,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./HelloWorld   # 👈 this is key
+        working-directory: ./Helloworld   # 👈 this is key
 
     steps:
       - name: Checkout code
